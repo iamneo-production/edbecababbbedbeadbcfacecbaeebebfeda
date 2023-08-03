@@ -1,4 +1,4 @@
-import  Foods  from "./foods";
+import { Foods } from './foods';
 
 describe('Foods', () => {
   it('should create an instance', () => {
